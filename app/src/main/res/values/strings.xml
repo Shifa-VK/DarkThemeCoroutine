@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AssessmentDarkTheme</string>
+    <string name="title">Title</string>
+    <string name="select_day_theme">Select Day Theme</string>
+    <string name="select_night_theme">Select Night Theme</string>
+    <string name="news_image">News Image</string>
+    <string name="author_name">Author Name</string>
+    <string name="news_title">News Title</string>
+</resources>
