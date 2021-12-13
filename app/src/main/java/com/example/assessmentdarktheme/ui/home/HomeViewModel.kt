@@ -1,4 +1,4 @@
-package com.example.assessmentdarktheme.ui
+package com.example.assessmentdarktheme.ui.home
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.example.assessmentdarktheme.application.MyApplication

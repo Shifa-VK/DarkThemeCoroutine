@@ -1,6 +1,5 @@
 package com.example.assessmentdarktheme.repository
 
-import android.util.Log
 import com.example.assessmentdarktheme.application.MyApplication
 import com.example.assessmentdarktheme.data.model.NewsCallBack
 import com.example.assessmentdarktheme.data.retrofit.RetrofitServiceInterface

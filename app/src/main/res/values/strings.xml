@@ -6,4 +6,6 @@
     <string name="news_image">News Image</string>
     <string name="author_name">Author Name</string>
     <string name="news_title">News Title</string>
+    <string name="user_name">User Name</string>
+    <string name="enter_valid_credentials">Please enter valid credentials</string>
 </resources>
